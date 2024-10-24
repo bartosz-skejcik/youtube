@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fVxkLDYbWPOJU+oGx+sBLOQY5RRgzAd5zGTh1REZzK4ImqRTWPJHThlzCAf1RRFrgxwrdVROYqNIrnJp0f+4ww==",
+  "success": true,
+  "projectFilePath": "/home/j5on/.youtube/tutorials/cs/MyFirstProgram/MyFirstProgram.csproj",
+  "expectedPackageFiles": [
+    "/home/j5on/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

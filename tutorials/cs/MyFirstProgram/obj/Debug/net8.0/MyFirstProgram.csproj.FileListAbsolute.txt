@@ -1,0 +1,15 @@
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/bin/Debug/net8.0/MyFirstProgram
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.deps.json
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.runtimeconfig.json
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.dll
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.pdb
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.AssemblyInfoInputs.cache
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.AssemblyInfo.cs
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.sourcelink.json
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.dll
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/obj/Debug/net8.0/refint/MyFirstProgram.dll
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.pdb
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.genruntimeconfig.cache
+/home/j5on/.youtube/tutorials/cs/MyFirstProgram/obj/Debug/net8.0/ref/MyFirstProgram.dll
