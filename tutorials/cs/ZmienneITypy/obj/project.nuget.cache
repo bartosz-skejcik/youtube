@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "In9B5eO6DnLBWl1VL/pa4fl5R+Ks9XQ/2ZIOlMcIgKBGjcMSxNp8CWDz0e+Eri4Z0rYHOs5CgQdBrYutwop3Kw==",
+  "success": true,
+  "projectFilePath": "/home/j5on/.youtube/tutorials/cs/ZmienneITypy/ZmienneITypy.csproj",
+  "expectedPackageFiles": [
+    "/home/j5on/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
